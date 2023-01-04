@@ -11,3 +11,5 @@ each subfolder will contain difference folders named by the language that is usi
 ## How to contribute
 anyone could have a new pull request with a fix of settings or main plot. also if you wanted to share your story written in the same settings, you can add it to the stores folder by a new pull request, all the text contents in this project should be written in markdown, image or other file contents is allowed
 
+**the commit message should use the same language with the content you commit.**
+
