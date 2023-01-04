@@ -1,5 +1,5 @@
-﻿# open-source-novel-testing
-this project is a experiment of how to write open source novel.
+﻿# open-source-novel-testing	
+this project is a experiment of how to write open source novel.(you can find chinese version [here](https://github.com/pathologyenigma/open-source-novel-testing/blob/main/README_zh.md))
 ## Poject format
 
  - root
